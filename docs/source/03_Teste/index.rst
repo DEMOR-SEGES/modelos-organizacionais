@@ -1,5 +1,5 @@
-Manual de Estruturas
-====================
+Exemplos
+========
 
 .. note::
 
