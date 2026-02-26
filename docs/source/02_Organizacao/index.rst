@@ -88,7 +88,7 @@ Na tabela abaixo há uma visualização idealizada dos tipos institucionais corr
 .. list-table::
    :header-rows: 1
    :widths: 18 22 22 22 16
-   
+
    - * 
      * Administração direta
      * Autarquia (ou fundação pública, fundação autárquica, autarquia fundacional e autarquia especial)
@@ -133,3 +133,105 @@ Na tabela abaixo há uma visualização idealizada dos tipos institucionais corr
 Órgão Público é a unidade de atuação integrante das estruturas da administração direta e da administração indireta (art. 1º, § 2º, inciso I da Lei nº 9.784, de 29 de janeiro de 1999).
 
 Na qualidade de parte da estrutura da Administração Pública Direta e das demais pessoas jurídicas, o órgão não tem personalidade jurídica e vontade própria. É um centro de competência governamental ou administrativa, instituído para o desempenho de funções estatais, cuja atuação é imputada à pessoa jurídica a que pertence. Cada órgão tem, necessariamente, funções, cargos e agentes, mas é distinto desses elementos que podem ser modificados, substituídos ou retirados sem supressão da unidade orgânica (MEIRELLES, 1990, p.64).
+
+Classificações de órgãos públicos
++++++++++++++++++++++++++++++++++
+
+**Quanto à posição na hierarquia do Poder Executivo Federal**
+
+.. list-table::
+   :header-rows: 1
+   :widths: 20 80
+
+   - * Órgãos autônomos
+     * são aqueles que se localizam na cúpula da Administração, subordinados diretamente ao Presidente da República. Gozam de autonomia administrativa, financeira e técnica e participam das decisões governamentais. São eles os ministérios e os órgãos da Presidência da República.
+
+   - * Órgãos superiores
+     * são órgãos de direção, porém sem autonomia administrativa e financeira. Sujeitam*se aos órgãos autônomos, compondo o seu primeiro escalão orgânico. Incluem*se, nesse tipo, os gabinetes, as secretarias, os departamentos etc.
+
+   - * Órgãos subalternos
+     * são os órgãos subordinados aos órgãos superiores. Encontra*se na base da estrutura orgânica da Administração Pública e são responsáveis por atividades materiais ou de execução. São também denominados de unidades administrativas.
+
+   - * Órgãos de execução
+     * são órgãos com reduzido poder decisório e com predominância de funções de execução. Destinam*se à realização de serviços de rotinas, tarefas administrativas, cumprimento de decisões superiores e primeiras soluções em casos individuais, como é o caso das atividades*meio e de atendimento ao público.
+
+
+**Quanto à natureza**
+
+.. list-table::
+   :header-rows: 1
+   :widths: 20 80
+
+   - * De assistência direta e imediata
+     * São aqueles responsáveis por funções de direção superior, assessoramento e assistência direta e imediata ao Ministro de Estado ou ao Presidente de autarquia ou fundação. Realizam estudos, pesquisas e acompanhamentos; elaboram programas e projetos e propõem diretrizes e estratégias. Compõem o primeiro escalão orgânico da estrutura dos ministérios, órgãos da Presidência da República ou autarquias.
+
+   - * Específicos
+     * Também compõem o primeiro escalão orgânico da estrutura dos ministérios, órgãos da Presidência da República, autarquias e fundações. São responsáveis por competências diretamente relacionadas com a área de atuação do ministério, órgão da Presidência da República, ou com a finalidade da autarquia.
+
+   - * Descentralizados
+     * São aqueles de execução em nível local. Em se tratando de estruturas regimentais ou estatutos, o termo refere-se à descentralização física, às unidades do órgão ou da entidade situadas em município diferente do da sede.[#]_
+
+**Quanto ao processo decisório**
+
+.. list-table::
+   :header-rows: 1
+   :widths: 20 80
+
+   - * Órgãos singulares
+     * São aqueles nos quais o comando e a decisão, em cada nível hierárquico, é atribuição de uma única autoridade pública, caso dos ministérios, secretarias, departamentos, diretorias etc. Nesse modelo, a Alta Administração compõe-se das autoridades políticas da organização que correspondem ao dirigente maior (ministros ou presidente) e aos titulares dos órgãos responsáveis pelos principais macroprocessos organizacionais, subordinados diretamente à maior autoridade. É modelo é típico da administração burocrática clássica na qual o poder de deliberação é concentrado no topo da hierarquia administrativa, facilitando o processo de decisão e de prestação de contas.
+
+   - * Órgãos colegiados[#]_
+     * Os órgãos colegiados, por sua vez, obedecem a uma lógica matricial compatível com a administração democrática. São integrados por mais de uma autoridade e têm como fundamentos o compartilhamento de saberes e a deliberação coletiva. Seus representantes podem ser originários do setor público, do setor privado ou da sociedade civil, segundo a natureza da representação. São conhecidos pelos nomes de Conselhos, Comitês, Câmaras, Comissões etc. Os órgãos colegiados podem ser de caráter deliberativo, consultivo ou judicante, conforme dispuser a política pública que o constitui. Embora integrem o sistema de governança organizacional, órgãos colegiados não dispõem de estrutura interna de cargos. Geralmente são constituídos por representantes de órgãos e entidades do Poder Público assim como por representantes da sociedade civil (composição pluripessoal). Como já dito, os membros dos colegiados não detêm cargos e não recebem remuneração de qualquer natureza por essa função. Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior do órgão ou entidade que o institui.
+
+Parcerias
+---------
+
+É importante pontuar que a execução das políticas públicas não se circunscreve à administração pública. Uma parcela muito relevante das políticas públicas é executada por meio de arranjos de parcerias em que o poder público as descentraliza para outros entes da federação ou para entidades privadas, com ou sem fins lucrativos.
+
+A descentralização de atividades na administração pública é uma estratégia que visa distribuir o poder e as responsabilidades de governança para além do nível central do governo. Existem várias razões pelas quais isso pode ser benéfico:
+  a)  Eficiência: Ao descentralizar, as decisões podem ser tomadas mais próximas das pessoas afetadas por elas. Isso permite uma resposta mais rápida e adequada às necessidades locais, evitando a burocracia e os atrasos associados à tomada de decisões em níveis mais altos.
+  b)  Inovação e adaptação local: Com a descentralização, as autoridades locais têm mais liberdade para adaptar políticas e programas às necessidades específicas de suas comunidades. Isso promove a inovação e a experimentação, resultando em soluções mais eficazes e adequadas às circunstâncias locais.
+  c)  Participação cívica: A descentralização pode aumentar a participação cívica e o engajamento das comunidades nas decisões que as afetam diretamente. Quando as pessoas têm um papel ativo na governança local, estão mais inclinadas a se envolverem e contribuírem para o desenvolvimento de suas comunidades.
+  d)  Accountability (Responsabilização): Ao descentralizar, também é possível promover uma maior responsabilização dos governantes locais perante a população que representam. Isso porque eles estão mais próximos dos cidadãos e têm que responder diretamente por suas ações e decisões.
+  e)  Redução de desigualdades: A descentralização pode ajudar a reduzir as desigualdades regionais, permitindo que áreas menos desenvolvidas tenham mais autonomia na alocação de recursos e na implementação de políticas para impulsionar seu desenvolvimento econômico e social.
+
+Em resumo, a descentralização na administração pública pode levar a uma governança mais eficiente, responsável e adaptável, promovendo o desenvolvimento sustentável e a participação cívica.
+
+**Modelos de parcerias**
+
+.. list-table::
+   :header-rows: 1
+   :widths: 15 20 20 20 20 20
+
+   - * Nome
+     * Organização Social
+     * Organização da Sociedade Civil de Interesse Público
+     * Organização da Sociedade Civil
+     * Parceria Público Privada
+     * Serviço Social Autônomo
+
+   - * Legislação
+     * Lei nº 9.637/1998 e Decreto nº 9.190/2017
+     * Lei nº 9790/1999 e Decreto nº 3.100/99
+     * Lei nº 13.019/2014 e Decreto nº 8.726/2016
+     * Lei nº 11.079/2004
+     * CF/1988 e Leis Específicas
+
+
+   - * Escopo
+     * Entidades de direito privado, sem fins lucrativos, cujas atividades sejam dirigidas ao ensino, à pesquisa científica, ao desenvolvimento tecnológico, à proteção e preservação do meio ambiente, à cultura e à saúde.
+     * Pessoas jurídicas de direito privado sem fins lucrativos que tenham sido constituídas e se encontrem em funcionamento regular há, no mínimo, três anos, desde que os respectivos objetivos sociais e normas estatutárias estejam em acordo com as finalidades estipuladas na lei. Exemplo: assistência social, combate à pobreza, estudos científicos.
+     * Organizações da sociedade civil (ONGs): * Entidade privada sem fins lucrativos, * sociedades cooperativas; * organizações religiosas com atividades de interesse público e de cunho social.
+     * Uma das principais características das parcerias público*privadas é que permite melhor uso dos recursos para a prestação de serviços complexos, como a entrega de uma grande infraestrutura, alcançada pela adequada divisão dos riscos contratuais entre o poder público e o parceiro privado. Incentiva a inovação, a eficiência, a satisfação dos usuários.
+     * Entidade civil de direito privado, instituída por lei ou a partir de autorização legal do Poder Executivo federal. As SSA do sistema S (SESI, SENAI, SEBRAE etc.) têm em comum a assistência ou ensino a certas categorias profissionais ou grupos profissionais. As demais (APEX, ANATER entre outras) possuem objetos mais específicos. O regulamento é estabelecido por decreto.
+
+   - * Exemplos
+     * RNP, IMPA, IDSM, ACERP, CGEE.
+     * Consultar: http://portal.convenios.gov.br
+     * Consultar: http://www.justica.gov.br/acessoa*sistemas/consulta*aentidadesqualificadas
+     * Satélite Geoestacionário Brasileiro, Rede de TV Pública Digital (RTVDB), BR 116*324, Ferrovia Norte*Sul.
+     * ABDI, APEX*Brasil, Rede Sarah e entes do Sistema S (SEBRAE, SESI).
+
+.. [#] Neste sentido, diferem do conceito de descentralização do Direito Administrativo, definido como a distribuição de competências de uma para outra pessoa, física ou jurídica (Di Pietro, 2015, p. 516). Na realidade, exemplificam o conceito de desconcentração do Direito Administrativo, definido como uma distribuição interna de competências dentro da mesma pessoa jurídica, feita para descongestionar, desconcentrar, tirar do centro um volume grande de atribuições para permitir o seu melhor desempenho (Di Pietro, 2015, p. 516). As unidades descentralizadas podem estar subordinadas diretamente ao titular máximo do órgão ou entidade ou a outra unidade administrativa, desde que a subordinação administrativa das unidades descentralizadas esteja descrita no decreto de estrutura regimental ou no estatuto, preferencialmente na Seção Das Unidades Descentralizadas.
+
+.. [#] A criação de colegiados, a ser tratada em ato normativo à parte do decreto de estrutura regimental ou estatuto, deve observar os critérios estabelecidos nos artigos nº 33 a 45 do Decreto nº 12.002, de 2024.
