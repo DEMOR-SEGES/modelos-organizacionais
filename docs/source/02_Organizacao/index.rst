@@ -85,51 +85,51 @@ De acordo com o STF (ADI nº 4.197 SE), a Fundação Estatal de Direito Privado 
 
 Na tabela abaixo há uma visualização idealizada dos tipos institucionais correlacionados com suas funções, tipo de atividade e área de atuação.
 
-.
 .. list-table::
    :header-rows: 1
    :widths: 18 22 22 22 16
-   * - 
-     - Administração direta
-     - Autarquia (ou fundação pública, fundação autárquica, autarquia fundacional e autarquia especial)
-     - Empresa estatal (empresa pública ou sociedade de economia mista)
-     - Fundação Estatal de direito privado
-
-   * - Função
-     - Preponderantemente política, estratégica, de supervisão e de avaliação
-     - Preponderantemente de execução de políticas públicas
-     - Preponderantemente de execução de políticas públicas
-     - Preponderantemente de execução de políticas públicas
-
-   * - Tipo institucional
-     - Órgãos da PR e Ministérios
-     - Autarquia (ou fundação pública, fundação autárquica, autarquia fundacional e autarquia especial)
-     - Empresa estatal (empresa pública ou sociedade de economia mista)
-     - Fundação Estatal de direito privado
-
-   * - Tipo de atividade
-     - Privativa de Estado (envolve poderes próprios de Estado)
-     - Privativa de Estado (envolve poderes próprios de Estado)
-     - Não privativa de Estado (não envolve poderes próprios de Estado)
-     - Não privativa de Estado (não envolve poderes próprios de Estado)
-
-   * - Ordem constitucional
-     - Econômica e Social
-     - Econômica e Social
-     - Econômica
-     - Social
-
-   * - Área de atuação
-     - Todas
-     - Todas
-     - Atividades econômicas
-     - Saúde, educação, CT&I, meio ambiente e previdência
-
-   * - Regime institucional
-     - Direito público, RJU, Lei nº 14.133/2021
-     - Direito público, RJU, Lei nº 14.133/2021
-     - Direito privado, CLT, Lei nº 13.303/2016
-     - Direito privado, CLT, regras próprias
+   
+   - * 
+     * Administração direta
+     * Autarquia (ou fundação pública, fundação autárquica, autarquia fundacional e autarquia especial)
+     * Empresa estatal (empresa pública ou sociedade de economia mista)
+     * Fundação Estatal de direito privado
+   - * Função
+     * Preponderantemente política, estratégica, de supervisão e de avaliação
+     * Preponderantemente de execução de políticas públicas
+     * Preponderantemente de execução de políticas públicas
+     * Preponderantemente de execução de políticas públicas
+   - * Tipo institucional
+     * Órgãos da PR e Ministérios
+     * Autarquia (ou fundação pública, fundação autárquica, autarquia fundacional e autarquia especial)
+     * Empresa estatal (empresa pública ou sociedade de economia mista)
+     * Fundação Estatal de direito privado
+   - * Tipo de atividade
+     * Privativa de Estado (envolve poderes próprios de Estado)
+     * Privativa de Estado (envolve poderes próprios de Estado)
+     * Não privativa de Estado (não envolve poderes próprios de Estado)
+     * Não privativa de Estado (não envolve poderes próprios de Estado)
+   - * Ordem constitucional
+     * Econômica e Social
+     * Econômica e Social
+     * Econômica
+     * Social
+   - * Área de atuação
+     * Todas
+     * Todas
+     * Atividades econômicas
+     * Saúde, educação, CT&I, meio ambiente e previdência
+   - * Regime institucional
+     * Direito público, RJU, Lei nº 14.133/2021
+     * Direito público, RJU, Lei nº 14.133/2021
+     * Direito privado, CLT, Lei nº 13.303/2016
+     * Direito privado, CLT, regras próprias
 
 .. note::
-      Sobretudo por razões históricas, há na administração pública federal muitas atividades alocadas em tipos institucionais não adequados. Há atividades finalísticas da área social sendo executadas por ministérios ou por empresas estatais, atividades executadas por autarquias, mas que não demandam poderes próprios de Estado, etc. Essa desconformidade entre modelo institucional e função administrativa tem impacto negativo sobre o desempenho dessas entidades, já que impõe restrições e controles não adequados ao tipo de atividade realizada. Deve-se, portanto, buscar a adequação do modelo institucional aplicado a essas entidades.
+      Sobretudo por razões históricas, há na administração pública federal muitas atividades alocadas em tipos institucionais não adequados. Há atividades finalísticas da área social sendo executadas por ministérios ou por empresas estatais, atividades executadas por autarquias, mas que não demandam poderes próprios de Estado, etc. Essa desconformidade entre modelo institucional e função administrativa pode ter impacto negativo sobre o desempenho dessas entidades, já que impõe restrições e controles não adequados ao tipo de atividade realizada. Deve-se, portanto, buscar a adequação do modelo institucional aplicado a essas entidades.
+
+Órgão público: conceitos elementares
+------------------------------------
+Órgão Público é a unidade de atuação integrante das estruturas da administração direta e da administração indireta (art. 1º, § 2º, inciso I da Lei nº 9.784, de 29 de janeiro de 1999).
+
+Na qualidade de parte da estrutura da Administração Pública Direta e das demais pessoas jurídicas, o órgão não tem personalidade jurídica e vontade própria. É um centro de competência governamental ou administrativa, instituído para o desempenho de funções estatais, cuja atuação é imputada à pessoa jurídica a que pertence. Cada órgão tem, necessariamente, funções, cargos e agentes, mas é distinto desses elementos que podem ser modificados, substituídos ou retirados sem supressão da unidade orgânica (MEIRELLES, 1990, p.64).
