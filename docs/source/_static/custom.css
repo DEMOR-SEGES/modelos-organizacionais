@@ -14,10 +14,10 @@ main.main article.main-article div.content p {
 
 /* Ajuste da largura do menu lateral (sidebar) no tema Furo */
 :root {
-    --sidebar-width: 220px; 
+    --sidebar-width: 180px; 
 }
 
 /* Diminui a fonte de todo o site */
 body {
-    font-size: 15px; 
+    font-size: 14px; 
 }
