@@ -12,11 +12,8 @@ main.main article.main-article div.content p {
     text-justify: inter-word;
 }
 
-/* Forçar a largura do menu lateral no Furo (Claro e Escuro) */
-html, 
-body[data-theme="light"], 
-body[data-theme="dark"] {
-    --sidebar-width: 180px !important;
+body {
+    --sidebar-width: 13rem !important; 
 }
 
 /* Diminui a fonte de todo o site */
