@@ -4,6 +4,17 @@ O poder executivo federal é responsável por executar as leis e as políticas p
 
 A estrutura organizacional refere-se à configuração pela qual uma organização é estabelecida e gerenciada, visando a consecução eficaz de seus objetivos e a execução eficiente de suas operações.
 
+Vou fazer um teste com um gif.
+
+.. figure:: ../_static/images/AnexoII_Decreto.gif
+   :alt: Animação mostrando a seleção do Anexo II no Decreto
+   :align: center
+   :name: gif-preenchimento-1
+
+   Demonstração: Como selecionar o Anexo II do Decreto.
+
+Como vimos na :numref:`gif-preenchimento-1`, o processo é bem direto.
+
 Existem muitos tipos de estruturas organizacionais, e a melhor estrutura para uma organização específica dependerá de uma série de fatores, como por exemplo o seu tamanho, a sua missão e a sua cultura. No entanto, existem alguns princípios gerais que podem ser aplicados a qualquer estrutura organizacional, como definição clara de papéis e responsabilidades, a alocação de recursos, bem como a maneira como os membros da equipe interagem e compartilham informações entre si. Em suma, a estrutura organizacional é o arcabouço que define a forma como uma entidade opera, quem está encarregado de quê e como a colaboração e a coordenação são facilitadas em todos os níveis da organização.
 
 As características únicas e complexidades das organizações públicas exigem um quadro claro que delimite autoridade e responsabilidades. Assim, uma estrutura organizacional efetiva aprimora a responsabilidade, estabelecendo linhas claras de autoridade e responsabilidade, tornando mais fácil acompanhar o processo decisório e o desempenho.
