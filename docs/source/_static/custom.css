@@ -14,24 +14,7 @@ main.main article.main-article div.content p {
 
 body {
     /* Diminui a fonte de todo o site */
-    font-size: 14px; 
+    font-size: 17px; 
     
-    /* Tentativa de forçar a largura do menu */
-    --sidebar-width: 13rem !important; 
-    
-    /* Alarga a área de texto para aproveitar o espaço que vai sobrar na direita */
-    --content-width: 60rem !important; 
 }
 
-/* Alinha o site inteiro (Menu + Texto) à esquerda da tela */
-.page {
-    justify-content: flex-start !important;
-}
-
-/* Remove as margens esquerdas extras que o Furo coloca em monitores grandes */
-@media screen and (min-width: 75em) {
-    .page {
-        margin-left: 0 !important;
-        padding-left: 0 !important;
-    }
-}
