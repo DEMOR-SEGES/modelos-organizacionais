@@ -6,7 +6,7 @@ A estrutura organizacional refere-se à configuração pela qual uma organizaç�
 
 Vou fazer um teste com um gif.
 
-.. figure:: ../_static/images/AnexoII_Decreto.gif
+.. figure:: ../_static/images/AnexoII_Decreto.*
    :alt: Animação mostrando a seleção do Anexo II no Decreto
    :align: center
    :name: gif-preenchimento-1
