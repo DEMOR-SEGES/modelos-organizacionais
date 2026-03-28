@@ -23,15 +23,14 @@ No menu lateral você encontrará o Manual de Estruturas Organizacionais atualiz
 
       Acesse :doc:`bibliografia` para ter acesso a todos os materiais e links utilizados neste documento.
 
+..
+   .. toctree::
+      :hidden:
+      :titlesonly:
 
-.. toctree::
-   :hidden:
-   :titlesonly:
-
-   01_Introducao/index
-   
-..02_Organizacao/index
-..03_Teste/index  
+      01_Introducao/index
+      02_Organizacao/index
+      03_Teste/index  
 
 .. only:: latex
 
