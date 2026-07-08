@@ -26,7 +26,7 @@ mais relevante. Independentemente do tamanho, da missão ou da cultura de cada
    quem responde por cada entrega e de que forma a coordenação acontece em todos
    os níveis.
  
-Por que a Estrutura Organizacional importa?
+Por que a Estrutura Organizacional Importa?
 -------------------------------------------
  
 Organizações públicas têm complexidades e responsabilidades únicas. Uma estrutura
