@@ -96,12 +96,12 @@ ato do Poder Executivo federal, atualmente disposta no
  
 .. admonition:: Importante
  
-   A descentralização de atividades pode ocorrer em dois planos distintos:
+   A descentralização de atividades pode ocorrer nas seguintes dimensões:
  
+   * **Político-administrativa** — no âmbito federativo, conforme a divisão de competências entre União, Estados e Municípios, nos termos dos arts. 21 a 33 da Constituição Federal.
    * **Dentro da administração pública** — por meio de entidades com personalidade
      jurídica própria, como autarquias, fundações públicas ou empresas estatais.
-   * **Fora da administração pública** — por meio de parcerias com a sociedade
-     civil, como organizações sociais e OSCIPs.
+   * **Fora da administração pública** — parcerias sociais com entidades privadas sem fins lucrativos (terceiro setor) e por meio de parcerias econômicas com entidades privadas com fins lucrativos (mercado).
  
 A opção pela descentralização costuma basear-se nos seguintes objetivos estratégicos
 de gestão:
@@ -256,18 +256,46 @@ Parcerias
 ---------
  
 Uma parcela expressiva das políticas públicas federais é operacionalizada por meio de
-parcerias com entidades privadas, com ou sem fins lucrativos.
+parcerias com entidades privadas, com ou sem fins lucrativos. Parcerias são uma forma de
+:ref:`descentralizacao`.
+
+.. admonition:: Parcerias econômicas com entidade privadas com fins lucrativos
  
-Essa estratégia de descentralização traz vantagens relevantes para a administração:
+   **Finalidade**:
+    fortalecer a interação entre o Estado e o mercado visando à realização de empreendimentos estratégicos no setor de infraestrutura, obras e serviços públicos.
+
+   **Tipos**:
+
+   * Concessão e permissão. Lei nº8.987, de 1995.
+
+   * PPP - Parceria Público Privada (Lei nº 11.079, de 30/12/2004) é definida como contrato administrativo de concessão, na modalidade patrocinada ou administrativa.
+
+   * PPI - Programa de Parceria de Investimentos (Lei nº 13.334, de 13/09-2016): consideram-se contratos de parceria a concessão comum, a concessão patrocinada, a concessão administrativa, a concessão regida por legislação setorial, a permissão de serviço público, o arrendamento de bem público, a concessão de direito real e os outros negócios público-privados que, em função de seu caráter estratégico e de sua complexidade, especificidade, volume de investimentos, longo prazo, riscos ou incertezas envolvidos, adotem estrutura jurídica semelhante.
+
+
+.. admonition:: Parcerias sociais com entidades privadas sem fins lucrativos
+ 
+   **Finalidade**: fomento à execução de atividades e ou serviços por entidades da sociedade civil, visando à implementação de políticas públicas da ordem social.
+
+   **Tipos**:
+
+   * As parcerias com Organizações Sociais (OS), Organizações da Sociedade Civil de Interesse Público (OSCIP) e com Organizações da Sociedade Civil (OSC) são reguladas por contrato de gestão, termo de parceria, convênio ou congêneres. Os termos de compromisso cultural são regulados pela Lei nº 13.018, de 2014.
+
+ 
+A estratégia de :ref:`descentralizacao` de atividades da ordem social para entidades privadas sem fins lucrativos 
+traz vantagens relevantes para a administração:
  
 * **Eficiência operacional:** Aproxima o processo decisório dos beneficiários finais,
   conferindo respostas ágeis e desburocratizadas.
 * **Inovação e adaptação local:** Garante flexibilidade para adaptar os programas
   governamentais às peculiaridades regionais.
+* **Incorporação de novos saberes.**
 * **Participação cívica:** Fortalece o controle social e estimula o engajamento direto
   da comunidade na execução do serviço público.
 * **Responsabilização:** Vincula o repasse de recursos públicos ao cumprimento de metas
   claras de desempenho.
+* **Ampliação da oferta de serviços públicos**
+* **Geração de emprego e renda**
 * **Redução de desigualdades:** Permite concentrar esforços e recursos em áreas
   vulneráveis com maior precisão.
  
