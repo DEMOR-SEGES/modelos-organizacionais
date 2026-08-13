@@ -35,7 +35,7 @@ Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
  
 **Não encontrou o que procurava?**
  
-   Caso reste alguma dúvida, entre em contato pelo endereço eletrônico **manualdeestruturas@mgi.gov.br**.
+   Caso reste alguma dúvida, entre em contato pelo endereço eletrônico **seges-demor@gestao.gov.br**.
 
 
 .. only:: html
