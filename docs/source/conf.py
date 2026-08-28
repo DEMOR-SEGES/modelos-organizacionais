@@ -49,7 +49,14 @@ numfig_secnum_depth = 1
 # -- Options for HTML output
 
 html_theme = 'furo'
-html_title = 'Manual de Estruturas Organizacionais'
+html_title = 'Manual de Estruturas Organizacionais do Poder Executivo Federal'
+
+html_meta = {
+    'description': 'Manual oficial com as orientações necessárias para elaborar e revisar estruturas organizacionais de ministérios e entidades do Poder Executivo Federal.',
+    'keywords': 'manual, estruturas organizacionais, poder executivo federal, siorg, governo, ministérios, autarquias, fundações',
+    'author': 'Ministério da Gestão e da Inovação em Serviços Públicos',
+    'robots': 'index, follow' # Autoriza e incentiva o Google a rastrear o site
+}
 
 # -- Configuração para priorizar GIF no HTML (Truque do Asterisco)
 from sphinx.builders.html import StandaloneHTMLBuilder
