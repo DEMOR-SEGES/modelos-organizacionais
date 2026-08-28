@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Estruturas Organizacionais'
+project = 'Manual de Estruturas Organizacionais'
 copyright = '2026, Demor'
 author = 'Diretoria de Modelos Organizacionais'
 project_copyright = 'Estruturas Organizacionais'
@@ -49,7 +49,7 @@ numfig_secnum_depth = 1
 # -- Options for HTML output
 
 html_theme = 'furo'
-html_title = ""
+html_title = 'Manual de Estruturas Organizacionais'
 
 # -- Configuração para priorizar GIF no HTML (Truque do Asterisco)
 from sphinx.builders.html import StandaloneHTMLBuilder
