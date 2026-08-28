@@ -1,5 +1,5 @@
-Estruturas Organizacionais
-==========================
+Manual de Estruturas Organizacionais
+====================================
 
 .. figure:: _static/images/banner_inicial.png
 
